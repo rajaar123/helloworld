@@ -3,6 +3,7 @@
 
 name: Maven Publish Package
 
+
 on:
   release:
     types: [created]
